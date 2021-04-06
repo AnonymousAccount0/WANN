@@ -16,7 +16,6 @@ Code for the numerical experiments requires the following packages:
 - `scikit-learn`
 - `numpy`
 - `cvxopt`
-- `nltk` (for sentiment analysis pre-processing)
 - `matplotlib` (for visualization)
 
 The file `environment.yml` can be used to reproduce the same conda environment as the one used to conduct the experiments with the following command line:
